@@ -5,3 +5,14 @@
 """
 
 print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
+print("Hello World!") #funcão que imprime algo no console (output)
