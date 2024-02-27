@@ -1,0 +1,2 @@
+Alguma coisa aqui! 
+Com essa função eu posso escrever qualquer coisa no arquivo!
